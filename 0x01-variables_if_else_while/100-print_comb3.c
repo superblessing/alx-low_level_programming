@@ -2,6 +2,7 @@
 /**
  * main - prints out all the numbers between 00 and 99
  * with no two digits being the same
+ *
  * Return: 0
  */
 int main(void)
